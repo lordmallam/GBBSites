@@ -1,0 +1,107 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GBBAmaka", "GBBAmaka\", "{5D586FFA-8E79-42D2-BE0D-4A4F39BE4C65}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_9912"
+		Debug.AspNetCompiler.PhysicalPath = "GBBAmaka\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9912\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_9912"
+		Release.AspNetCompiler.PhysicalPath = "GBBAmaka\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9912\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "9912"
+		SlnRelativePath = "GBBAmaka\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GBBMusa", "GBBMusa\", "{9066E50F-AFFB-4461-AD28-2C0D000D1917}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_9930"
+		Debug.AspNetCompiler.PhysicalPath = "GBBMusa\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9930\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_9930"
+		Release.AspNetCompiler.PhysicalPath = "GBBMusa\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9930\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "9930"
+		SlnRelativePath = "GBBMusa\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GBBOkra", "GBBOkra\", "{B67B9A08-4187-42E3-B7BB-358384D300C6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_9945"
+		Debug.AspNetCompiler.PhysicalPath = "GBBOkra\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9945\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_9945"
+		Release.AspNetCompiler.PhysicalPath = "GBBOkra\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9945\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "9945"
+		SlnRelativePath = "GBBOkra\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GBBPortalAda", "GBBPortalAda\", "{70909337-E326-4068-ADBB-E1C18B766550}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_9949"
+		Debug.AspNetCompiler.PhysicalPath = "GBBPortalAda\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9949\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_9949"
+		Release.AspNetCompiler.PhysicalPath = "GBBPortalAda\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9949\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "9949"
+		SlnRelativePath = "GBBPortalAda\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D586FFA-8E79-42D2-BE0D-4A4F39BE4C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D586FFA-8E79-42D2-BE0D-4A4F39BE4C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9066E50F-AFFB-4461-AD28-2C0D000D1917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9066E50F-AFFB-4461-AD28-2C0D000D1917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67B9A08-4187-42E3-B7BB-358384D300C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67B9A08-4187-42E3-B7BB-358384D300C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70909337-E326-4068-ADBB-E1C18B766550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70909337-E326-4068-ADBB-E1C18B766550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
