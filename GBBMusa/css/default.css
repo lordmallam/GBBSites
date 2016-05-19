@@ -60,7 +60,7 @@ box-shadow:         0px 5px 5px 0px rgba(50, 50, 50, 0.75);
 }
 
 #logodiv {
-    background-image: url('/pics/logogbb.png');
+    background-image: url('../pics/logogbb.png');
     background-repeat: no-repeat;
     background-position: center center;
     width: 200px;
@@ -441,13 +441,13 @@ box-shadow:         0px 5px 5px 0px rgba(50, 50, 50, 0.75);
     border-right-color: #38963A;
 }
 #top-a {
-    background-image: url('/pics/homeguy1.png');
+    background-image: url('../pics/homeguy1.png');
     background-repeat: no-repeat;
     background-position: right bottom;
     min-height:100%;
 }
 #top-a-c {
-    background-image: url('/pics/contentgirl.png');
+    background-image: url('../pics/contentgirl.png');
     background-repeat: no-repeat;
     background-position: right bottom;
     min-height:100%;
@@ -457,7 +457,7 @@ box-shadow:         0px 5px 5px 0px rgba(50, 50, 50, 0.75);
 }
 #top-div {
     height: 180px;
-    background-image: url('/pics/bg-top.png');
+    background-image: url('../pics/bg-top.png');
     background-repeat: no-repeat;
     background-position: center top;
     opacity: 0.5;
@@ -484,7 +484,7 @@ box-shadow:         0px 5px 5px 0px rgba(50, 50, 50, 0.75);
     background-position: center bottom;
     background-color: #d8d8d8;
     color: #FFFFFF;
-    background-image: url('/pics/top-b.png');
+    background-image: url('../pics/top-b.png');
     background-repeat: no-repeat;
     height: 500px;
     background-size:contain;
@@ -541,7 +541,7 @@ box-shadow:         0px 5px 5px 0px rgba(50, 50, 50, 0.75);
     
 }
  #newsdiv{
-     background-image:url("/pics/news.jpg");
+     background-image:url("../pics/news.jpg");
      background-position:center center;
      height:490px;
      background-color:white;
@@ -549,7 +549,7 @@ box-shadow:         0px 5px 5px 0px rgba(50, 50, 50, 0.75);
      background-repeat:no-repeat;
  }
   #officediv{
-     background-image:url("/pics/offices.jpg");
+     background-image:url("../pics/offices.jpg");
      background-position:center center;
      height:374px;
      background-color:#ebebeb;
@@ -557,7 +557,7 @@ box-shadow:         0px 5px 5px 0px rgba(50, 50, 50, 0.75);
      background-size:contain;
  }
    #mapdiv{
-     background-image:url("/pics/map.jpg");
+     background-image:url("../pics/map.jpg");
      background-position:center center;
      height:374px;
      background-color:#ebebeb;
