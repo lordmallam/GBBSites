@@ -7,9 +7,7 @@
 }
 
 #headerDiv {
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-color: #EEEEEE;
+    
 }
 
 .innerwidth {
@@ -51,14 +49,14 @@
     background-repeat: no-repeat;
     background-position: center center;
     width: 254px;
-    height: 50px;
+    height: 70px;
     float: left;
 }
 
 #menusearchdiv {
     float: right;
     width: calc(100% - 260px);
-    height: 50px;
+    height: 70px;
 }
 
 #menudiv {
@@ -68,11 +66,11 @@
 }
 
     #menudiv > a {
-        display: inline-block;
-        padding: 15px 10px;
-        text-decoration: none;
-        color: #333333;
-        height: calc(100% - 30px);
+           display: inline-block;
+    padding: 27px 10px;
+    text-decoration: none;
+    color: #333333;
+    height: calc(100% - 54px);
     }
 
         #menudiv > a:hover {
@@ -87,6 +85,9 @@
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     margin-left: 5px;
+}
+.fontV{
+font-family: 'Lato', sans-serif;
 }
 
 .opensans {
@@ -106,17 +107,17 @@
     #searchdiv > input {
         border: 1px solid #E2E2E2;
         padding: 5px 10px;
-        height: calc(100% - 30px);
         width: calc(100% - 20px);
-        margin-top: 10px;
+        margin-top: 20px;
         margin-bottom: 10px;
     }
 
 #topmenudiv {
-    background-color: #dddddd;
+    background-color: #339966;
     font-size: small;
     padding-top: 5px;
     padding-bottom: 5px;
+    color: #FFFFFF;
 }
 
 #topmenu {
@@ -125,8 +126,9 @@
 
     #topmenu > a {
         text-decoration: none;
-        color: #707070;
-        margin: 0 10px;
+            margin: 0 5px;
+    display: inline-block;
+    vertical-align: middle;
     }
 
         #topmenu > a:hover {
@@ -143,11 +145,17 @@
 }
 
 .bg1 {
-    background: #F5F5F5;
+    background: #e2e2e2;
 }
 
 .bg2 {
     background: white;
+}
+.bg3{
+    background:#b1e4dc;
+}
+.bg4{
+    background:#cecfcd;
 }
 
 .paddingSides20 {
@@ -161,11 +169,18 @@
 }
 
 .Aitems {
-    width: 32%;
+    width: 23.5%;
     background-size: cover;
     height: 200px;
     float: left;
     cursor: pointer;
+}
+.newsDiv {
+    width: calc(30% - 1px);
+    min-height: 400px;
+    float: left;
+    padding-right: 1%;
+    padding-left: 1%;
 }
 
 .Bitems {
@@ -273,9 +288,8 @@
 }
 
 #supportdiv {
-    border: 1px solid #dddddd;
+    border: 1px solid #ebebeb;
     padding: 30px 20px;
-    margin-top: 30px;
 }
 .textbox{
     width:calc(90% - 20px);
@@ -466,4 +480,54 @@
     top: 30%;
     right: 0;
     background-color:#fff;
+}
+.top-menu-label {
+        margin-right: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.phone::before{
+    content:url("/images/Phone calls-WF.png");
+    margin-right: 10px;
+    margin-top: -1px;
+    display: inline-block;
+    float: left;
+}
+.email::before{
+    content:url("/images/Letter Open 01-WF.png");
+    margin-right: 10px;
+    margin-top: -1px;
+    display: inline-block;
+    float: left;
+    width:15px;
+}
+
+
+.icon-social {
+    width: 15px;
+}
+
+#container-main{
+    position:relative;
+}
+.menu-fixed{
+    position:fixed;
+    top:-30px;
+    left:0;
+    width:100%;
+    background-color:white;
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 5px 5px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 5px 5px 0px rgba(50, 50, 50, 0.75);
+z-index:200;
+}
+.menu-bodyDiv{
+    margin-top:115px;
+}
+.fontXLarge {
+    font-size: x-large;
+}
+.block {
+    display: block;
 }
